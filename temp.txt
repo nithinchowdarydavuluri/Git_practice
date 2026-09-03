@@ -1,1 +1,5 @@
-temp2 file
+<<<<<<<<< Temporary merge branch 1
+ hello from main
+=========
+ hello from feature
+>>>>>>>>> Temporary merge branch 2
